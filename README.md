@@ -17,7 +17,7 @@ Instruction (3 steps)
   - "Run query"
 
 2. Update spreadsheet to one-click download n URLs
-- 2a. Make a copy of this spreadsheet <a href="https://docs.google.com/spreadsheets/d/1oOBYtJIvogW8CjMcJsLjFINxa7ataJXb54qDmak7Tm0/edit#gid=449108404">this spreadsheet</a>
+- 2a. Make a copy of <a href="https://docs.google.com/spreadsheets/d/1oOBYtJIvogW8CjMcJsLjFINxa7ataJXb54qDmak7Tm0/edit#gid=449108404">this spreadsheet</a>
   - Columns
     - A: start-date 
     - B: end-date
