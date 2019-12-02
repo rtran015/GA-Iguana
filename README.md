@@ -34,4 +34,8 @@ Instruction (3 steps)
       - After updating H:H, click H3 to verify URL works (a new tab will open and start a download). When this works, open all URLs to download all files. Highlight all cells, right click, open links.
 - 2b. Locate all files and put in separate folder
 
-3. Combine all spreadsheets with terminal or command prompt
+3. Combine all spreadsheets with terminal or command prompt (source: https://eikhart.com/blog/merge-csv-files-with-mac-os-x-terminal)
+- 3a. Open terminal and locate folder. For ex:
+  - cd ~/"downloads"/"new folder"
+  - return
+  - cat *.tsv >merged.csv
