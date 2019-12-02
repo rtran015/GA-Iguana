@@ -32,6 +32,6 @@ Instruction (3 steps)
     - H: Populated DL URL
       - (Update the formula in H3 to match the URL pasted in G3. Note: Output is download URL with start-index updated to match D:D).
       - After updating H:H, click H3 to verify URL works (a new tab will open and start a download). When this works, open all URLs to download all files. Highlight all cells, right click, open links.
-2b. Locate all files and put in separate folder
+- 2b. Locate all files and put in separate folder
 
 3. Combine all spreadsheets with terminal or command prompt
