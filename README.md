@@ -11,10 +11,10 @@ Simple method to extract greater than 10000 rows on Google Analytics
 <h1>Begin Instruction (3 steps)</h1>
 
 <h2>1. Run query to get base URLs</h2>
-1a. Go to: https://ga-dev-tools.appspot.com/query-explorer/
-  - Authorize
-  - Complete "select a view" and "query parameters"
-  - "Run query"
+<br>1a. Go to: https://ga-dev-tools.appspot.com/query-explorer/
+  <br>- Authorize
+  <br>- Complete "select a view" and "query parameters"
+  <br>- "Run query"
 
 <h2>2. Update spreadsheet to one-click download n URLs</h2>
 2a. Make a copy of this spreadsheet <a href="https://docs.google.com/spreadsheets/d/1oOBYtJIvogW8CjMcJsLjFINxa7ataJXb54qDmak7Tm0/edit#gid=449108404">this spreadsheet</a>
