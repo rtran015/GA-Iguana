@@ -8,15 +8,15 @@ Simple method to extract greater than 10000 rows on Google Analytics
   - Combine all *.tsv files into master data *.csv file using command line
   
   
-<h1>Begin Instruction (3 steps)</h1>
+Instruction (3 steps)
 
-<h2>1. Run query to get base URLs</h2>
-<br>1a. Go to: https://ga-dev-tools.appspot.com/query-explorer/
-  <br>- Authorize
-  <br>- Complete "select a view" and "query parameters"
-  <br>- "Run query"
+1. Run query to get base URLs
+1a. Go to: https://ga-dev-tools.appspot.com/query-explorer/
+  - Authorize
+  - Complete "select a view" and "query parameters"
+  - "Run query"
 
-<h2>2. Update spreadsheet to one-click download n URLs</h2>
+2. Update spreadsheet to one-click download n URLs
 2a. Make a copy of this spreadsheet <a href="https://docs.google.com/spreadsheets/d/1oOBYtJIvogW8CjMcJsLjFINxa7ataJXb54qDmak7Tm0/edit#gid=449108404">this spreadsheet</a>
   - Columns
     A: start-date 
@@ -34,5 +34,4 @@ Simple method to extract greater than 10000 rows on Google Analytics
       - After updating H:H, click H3 to verify URL works (a new tab will open and start a download). When this works, open all URLs to download all files. Highlight all cells, right click, open links.
 2b. Locate all files and put in separate folder
 
-<h2>3. Combine all spreadsheets with terminal or command prompt</h2> 
-
+3. Combine all spreadsheets with terminal or command prompt
